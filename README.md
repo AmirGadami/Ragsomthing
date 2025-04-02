@@ -1,3 +1,22 @@
+# 🤖✨ Meet Your AI Mirror: Get to Know Amir... via Amir
+
+Welcome to **PersonaRAG** — your backstage pass to the mind of **Amir Ghadami**.
+
+This isn’t just another chatbot. This is *your personal AI-powered career oracle*. It’s like giving GPT-4o a tour through your brain — resume, goals, projects, life plans, dreams, PhD ambitions, even your ideal mansion and family plan by 40. 🎯
+
+Ever wanted to ask questions like:
+> 🧠 “What’s Amir working on right now?”  
+> 📚 “How many papers has he published?”  
+> 🔮 “Where does he see himself in 2035?”  
+> 🏗️ “Tell me about his most ambitious AI projects.”
+
+Well now you can — *and you’ll get responses as if your future self had already lived through it*.
+
+So ask away. Laugh. Learn. Plot world domination (ethically).  
+**PersonaRAG** is here to make your story searchable, sharable, and spectacularly smart.
+
+---
+
 # 🧠💼 PersonaRAG
 
 **PersonaRAG** is an AI-powered chatbot that knows your career inside and out. It uses Retrieval-Augmented Generation (RAG) to interactively answer questions about your resume, publications, projects, and future goals—like having a personal assistant trained on your portfolio.
